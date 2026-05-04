@@ -5,6 +5,7 @@
 	"age": 5000,
 	"isPrimary": true,
 	"name": "Salibe",
+	"dayCycle": 0,
 	"planets": [
 		{
 			"isPlanet": true,
